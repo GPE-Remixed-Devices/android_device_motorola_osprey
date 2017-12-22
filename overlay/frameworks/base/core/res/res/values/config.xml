@@ -21,7 +21,7 @@
 
     <!-- Do the battery/notification LEDs support pulsing?
          Used to decide if we show pulse settings -->
-    <bool name="config_ledCanPulse">false</bool>
+    <!-- <bool name="config_ledCanPulse">false</bool>-->
 
     <!-- Vibrator pattern for feedback about a long screen/key press -->
     <integer-array name="config_longPressVibePattern">
